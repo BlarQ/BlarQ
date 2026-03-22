@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a ticketing website for events - [O3 Ticketing](https://o3-ticketing.vercel.app) & a Mini Skincare E-Commerce Platform - [Arsema](https://arsema.vercel.app)
+🔭 I'm currently working on a ticketing website for events - [Eventivate](https://eventivate.vercel.app) & a Mini Skincare E-Commerce Platform - [Arsema](https://arsema.vercel.app)
 <br>👨‍💻 I'm looking to collaborate on exciting projects<br>🤝 I'm seeking help and opportunities to building my portfolio and strengthen my expertise.<br>🌱 I'm currently deepening my knowledge of frontend development.<br>💬 Do you have any question for me? Ask away!<br>⚡ Fun fact: I love solving problems! 😌
 
 
